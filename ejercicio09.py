@@ -1,0 +1,7 @@
+hitza = list(input("dime una palabra en minusculas: "))
+a = hitza.count("a")
+e = hitza.count("e")
+i = hitza.count("i")
+o = hitza.count("o")
+u = hitza.count("u")
+print(f"En la frase dada por el usuario la letra a aparece {a} veces,la letra e {e} veces,la letra i {i} veces, la letrao {o} veces y la letra u {u}")
